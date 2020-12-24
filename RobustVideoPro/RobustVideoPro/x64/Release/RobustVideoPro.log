@@ -1,0 +1,19 @@
+﻿  main.c
+d:\videopro\graduationpro\robustvideopro\robustvideopro\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+main.c(48): warning C4018: “<”: 有符号/无符号不匹配
+main.c(253): warning C4013: “DWT2D”未定义；假设外部返回 int
+main.c(254): warning C4013: “svd”未定义；假设外部返回 int
+main.c(265): warning C4013: “matInv”未定义；假设外部返回 int
+main.c(266): warning C4013: “matMul”未定义；假设外部返回 int
+main.c(268): warning C4013: “IDWT2D”未定义；假设外部返回 int
+main.c(471): warning C4018: “<”: 有符号/无符号不匹配
+main.c(535): warning C4244: “=”: 从“double”转换到“int64_t”，可能丢失数据
+main.c(537): warning C4244: “=”: 从“double”转换到“int64_t”，可能丢失数据
+main.c(533): warning C4244: “初始化”: 从“double”转换到“int64_t”，可能丢失数据
+  正在生成代码
+  5 of 18 functions (27.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  RobustVideoPro.vcxproj -> D:\VIDEOPRO\GraduationPro\RobustVideoPro\RobustVideoPro\x64\Release\RobustVideoPro.exe
+  RobustVideoPro.vcxproj -> D:\VIDEOPRO\GraduationPro\RobustVideoPro\RobustVideoPro\x64\Release\RobustVideoPro.pdb (Full PDB)
