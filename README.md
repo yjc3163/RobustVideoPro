@@ -1,2 +1,2 @@
 # RobustVideoPro
-Robust Video Steganography Algorithm(DWT+SVD)
+Robust Video Steganography(DWT+SVD)
